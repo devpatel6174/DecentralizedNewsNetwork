@@ -18,4 +18,4 @@ Spearheading democratized media using the blockchain
 
 There are many problems that may appear to plague any potential rendition of the Decentralized News Network. Quite simply because actors that oppose this are extremely resourceful and motivated. These will have to be progressively resolved as new and unexpected problems appear.
     
- - DEXP
+DEXP
